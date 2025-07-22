@@ -40,4 +40,9 @@ I'm playing the HR analyst role in this project and build a Report which can hel
 
 **Nikhil Karaka**  
 
+
+## 📬 Contact
+
+For queries or suggestions, feel free to reach out via [email](mailto:karakanikhil2003@gmail.com) or connect on [GitHub](https://github.com/karakanikhil2003).
+
 Thank you for exploring this project!
