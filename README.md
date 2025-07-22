@@ -33,4 +33,11 @@ I'm playing the HR analyst role in this project and build a Report which can hel
 - IN Job Level 1, most of  Laboratory Technician Left the Company.
 - Employees who having, education field Life Sciences had left the company most nearly 40%.
 - Most of Employees Leaving Company after 1 year.
-- Employees who are leaving are not satisfied with Work Environment. 
+- Employees who are leaving are not satisfied with Work Environment.
+
+
+## Author
+
+**Nikhil Karaka**  
+
+Thank you for exploring this project!
